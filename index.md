@@ -2,9 +2,9 @@
 
 ![](php_and_js.png)
 
-# Scripting Language
+# **Scripting Language**
 
-## _Table of Content_
+## _**Table of Content**_
 
 </div>
 
@@ -24,7 +24,3 @@ _``Unit 3``_ : **Advance Server Side Scripting.**
 *   [**_``jQuery``_**](Unit/Unit-1.md)
 *   [**_``JOOMLA``_**](Unit/Unit-1.md)
 *   [**_``WordPress Administration Level``_**](Unit/Unit-1.md)
-
-# **Scripting Language**
-
-## _**Table of Content**_
