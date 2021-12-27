@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="php_and_js.png" />
+![](php_and_js.png)
 
 # Scripting Language
 
