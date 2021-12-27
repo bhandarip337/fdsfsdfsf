@@ -2,9 +2,9 @@
 
 <img src="php_and_js.png" />
 
-# **Scripting Language**
+# Scripting Language**
 
-## _**Table of Content**_
+## _Table of Content_
 
 </div>
 
