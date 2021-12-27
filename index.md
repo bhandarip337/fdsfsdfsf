@@ -1,7 +1,3 @@
-![](php_and_js.png)
-
-# **Scripting Language**
-
 ## _**Table of Content**_
 
 _``Unit 1``_ : **Client Side Scripting.**
